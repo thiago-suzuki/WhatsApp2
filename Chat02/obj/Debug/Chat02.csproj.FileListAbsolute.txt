@@ -1,0 +1,9 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\bin\Debug\Chat02.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\bin\Debug\Chat02.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\bin\Debug\Chat02.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.Form1.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\C#VisualStudioProjects\WhatsApp2\Chat02\obj\Debug\Chat02.pdb
